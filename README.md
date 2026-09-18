@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/shubham280205/leetcode/tree/master/0002-add-two-numbers) |
+| [0007-reverse-integer](https://github.com/shubham280205/leetcode/tree/master/0007-reverse-integer) |
 | [3871-count-commas-in-range-ii](https://github.com/shubham280205/leetcode/tree/master/3871-count-commas-in-range-ii) |
 ## Recursion
 |  |
