@@ -60,4 +60,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/shubham280205/leetcode/tree/master/0005-longest-palindromic-substring) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/shubham280205/leetcode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
