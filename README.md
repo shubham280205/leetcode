@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shubham280205/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shubham280205/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/shubham280205/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubham280205/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Hash Table
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/shubham280205/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shubham280205/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/shubham280205/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/shubham280205/leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
 | ------- |
