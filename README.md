@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/shubham280205/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/shubham280205/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/shubham280205/leetcode/tree/master/0008-string-to-integer-atoi) |
+| [1021-remove-outermost-parentheses](https://github.com/shubham280205/leetcode/tree/master/1021-remove-outermost-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -65,4 +66,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0184-department-highest-salary](https://github.com/shubham280205/leetcode/tree/master/0184-department-highest-salary) |
 | [1211-queries-quality-and-percentage](https://github.com/shubham280205/leetcode/tree/master/1211-queries-quality-and-percentage) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shubham280205/leetcode/tree/master/1021-remove-outermost-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/shubham280205/leetcode/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
