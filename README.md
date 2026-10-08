@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/shubham280205/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubham280205/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shubham280205/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/shubham280205/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubham280205/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shubham280205/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0875-koko-eating-bananas](https://github.com/shubham280205/leetcode/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
