@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/shubham280205/leetcode/tree/master/0184-department-highest-salary) |
+| [0550-game-play-analysis-iv](https://github.com/shubham280205/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [1211-queries-quality-and-percentage](https://github.com/shubham280205/leetcode/tree/master/1211-queries-quality-and-percentage) |
 ## Stack
 |  |
