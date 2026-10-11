@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0550-game-play-analysis-iv](https://github.com/shubham280205/leetcode/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/shubham280205/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0585-investments-in-2016](https://github.com/shubham280205/leetcode/tree/master/0585-investments-in-2016) |
+| [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shubham280205/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1211-queries-quality-and-percentage](https://github.com/shubham280205/leetcode/tree/master/1211-queries-quality-and-percentage) |
 ## Stack
 |  |
