@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/shubham280205/leetcode/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/shubham280205/leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0046-permutations](https://github.com/shubham280205/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shubham280205/leetcode/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/shubham280205/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/shubham280205/leetcode/tree/master/0078-subsets) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/shubham280205/leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/shubham280205/leetcode/tree/master/0047-permutations-ii) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/shubham280205/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/shubham280205/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Concurrency
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/shubham280205/leetcode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/shubham280205/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/shubham280205/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/shubham280205/leetcode/tree/master/0078-subsets) |
 ## Simulation
 |  |
