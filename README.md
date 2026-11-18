@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0585-investments-in-2016](https://github.com/shubham280205/leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/shubham280205/leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/shubham280205/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1148-article-views-i](https://github.com/shubham280205/leetcode/tree/master/1148-article-views-i) |
 | [1211-queries-quality-and-percentage](https://github.com/shubham280205/leetcode/tree/master/1211-queries-quality-and-percentage) |
 ## Stack
 |  |
