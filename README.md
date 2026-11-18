@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/shubham280205/leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/shubham280205/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shubham280205/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/shubham280205/leetcode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 ## Sliding Window
 |  |
 | ------- |
