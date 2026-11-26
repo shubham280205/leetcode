@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/shubham280205/leetcode/tree/master/0009-palindrome-number) |
 | [0050-powx-n](https://github.com/shubham280205/leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/shubham280205/leetcode/tree/master/1922-count-good-numbers) |
+| [3360-stone-removal-game](https://github.com/shubham280205/leetcode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/shubham280205/leetcode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/shubham280205/leetcode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3871-count-commas-in-range-ii](https://github.com/shubham280205/leetcode/tree/master/3871-count-commas-in-range-ii) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/shubham280205/leetcode/tree/master/2243-calculate-digit-sum-of-a-string) |
+| [3360-stone-removal-game](https://github.com/shubham280205/leetcode/tree/master/3360-stone-removal-game) |
 ## Number Theory
 |  |
 | ------- |
