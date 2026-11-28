@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/shubham280205/leetcode/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/shubham280205/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/shubham280205/leetcode/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/shubham280205/leetcode/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/shubham280205/leetcode/tree/master/0050-powx-n) |
 | [1922-count-good-numbers](https://github.com/shubham280205/leetcode/tree/master/1922-count-good-numbers) |
 | [3360-stone-removal-game](https://github.com/shubham280205/leetcode/tree/master/3360-stone-removal-game) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/shubham280205/leetcode/tree/master/0029-divide-two-integers) |
 | [0078-subsets](https://github.com/shubham280205/leetcode/tree/master/0078-subsets) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/shubham280205/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 ## Sorting
